@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "An e-commerce website",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +14,8 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Priyanka",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
