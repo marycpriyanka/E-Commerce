@@ -24,7 +24,18 @@ E-Commerce or internet retail website
 
 ## Usage
 
-Use 'nodemon server' in your command line to sync the database and start the application's server.After that open Insomnia or Postman to test all API GET, POST, PUT and DELETE routes for categories, products or tags. When any API GET routes are tested, the data for the corresponding route is displayed in a formatted JSON. When API POST, PUT or DELETE routes are tested, then the corresponding data is successfully created, updated or deleted in the database. Any server side or client side errors are handled.
+Use 'nodemon server' in your command line to sync the database and start the application's server.
+
+![start](https://github.com/marycpriyanka/E-Commerce/blob/main/screenshots/screenshot1.JPG)
+
+After that open Insomnia or Postman to test all API GET, POST, PUT and DELETE routes for categories, products or tags. When any API GET routes are tested, the data for the corresponding route is displayed in a formatted JSON. When API POST, PUT or DELETE routes are tested, then the corresponding data is successfully created, updated or deleted in the database. 
+
+![postman](https://github.com/marycpriyanka/E-Commerce/blob/main/screenshots/screenshot2.JPG)
+
+Any server side or client side errors have been handled.
+
+Find a walkthrough video that demonstrates the functionality of the employee tracker in the link below.
+https://drive.google.com/file/d/1V0iq_9wHdFDXcWNyMtbjL_MmDqBNIxh3/view?usp=sharing
 
 ##  Technologies used
 
